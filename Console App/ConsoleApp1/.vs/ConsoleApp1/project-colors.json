@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce51faeb-1882-4253-91cf-dc106850622f": {
+      "ProjectGuid": "ce51faeb-1882-4253-91cf-dc106850622f",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "0a11f622-6b7a-4002-8d91-81db65e2d2b8": {
+      "ProjectGuid": "0a11f622-6b7a-4002-8d91-81db65e2d2b8",
+      "DisplayName": "Basic Classes and Objects",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

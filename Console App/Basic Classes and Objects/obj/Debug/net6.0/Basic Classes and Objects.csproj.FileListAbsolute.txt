@@ -1,0 +1,15 @@
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\bin\Debug\net6.0\Basic Classes and Objects.exe
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\bin\Debug\net6.0\Basic Classes and Objects.deps.json
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\bin\Debug\net6.0\Basic Classes and Objects.runtimeconfig.json
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\bin\Debug\net6.0\Basic Classes and Objects.dll
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\bin\Debug\net6.0\ref\Basic Classes and Objects.dll
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\bin\Debug\net6.0\Basic Classes and Objects.pdb
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.csproj.AssemblyReference.cache
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.AssemblyInfoInputs.cache
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.AssemblyInfo.cs
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.csproj.CoreCompileInputs.cache
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.dll
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\ref\Basic Classes and Objects.dll
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.pdb
+D:\SRenithK\Programming\C#\Console App\Basic Classes and Objects\obj\Debug\net6.0\Basic Classes and Objects.genruntimeconfig.cache

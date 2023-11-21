@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9ddc8ab-01af-49f6-a68a-1b3dfe2d79e1": {
+      "ProjectGuid": "b9ddc8ab-01af-49f6-a68a-1b3dfe2d79e1",
+      "DisplayName": "Exercise - Control flow",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

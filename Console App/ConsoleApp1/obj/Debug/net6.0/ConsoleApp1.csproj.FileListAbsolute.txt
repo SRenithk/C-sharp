@@ -1,0 +1,15 @@
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\SRenithK\Programming\C#\Console App\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache

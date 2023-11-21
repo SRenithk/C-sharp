@@ -1,0 +1,7 @@
+F5	 	- Run the Application
+cw 		- Console.WriteLine()
+
+Combined Keys
+ctrl + ; 	- Open Solution Explorer
+ctrl + Tab	- Navigate Opened Tabs
+Shift + Alt + C - New Class
